@@ -1,5 +1,5 @@
-eZf button: change between gfull canvash, gsprayh, and gmouse pointh painting.
-eXf button: change between grandomh colors and gsaved color.h
-eCf button: change the gsaved color.h
+'Z' button: change between "full canvas", "spray", and "mouse point" painting.
+'X' button: change between "random" colors and "saved color."
+'C' button: change the "saved color."
 
 Mouse left-click: paint
