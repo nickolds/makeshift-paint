@@ -12,9 +12,6 @@ function setup() {
 	text('color:', 385, 30);
 	rect(470,0,40,40);
 	rect(510,0,130,40);
-	textSize(32);
-	text('size:', 520, 30);
-	text(str(size), 0, 60);
 }
 
 
